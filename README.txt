@@ -1,14 +1,13 @@
-RITESH PATIL — 3D PORTFOLIO
+Ritesh Patil — 3D Developer Portfolio
 
-Preview:
-Open index.html in a browser.
+Files:
+- index.html: portfolio website
+- profile.png: your profile photo used in the hero 3D orb
 
-Publish free with GitHub Pages:
-1. Create a public GitHub repository named ritesh-portfolio.
-2. Upload index.html to the repository root.
-3. Go to Settings > Pages.
-4. Select Deploy from a branch, branch main, folder /(root), then Save.
-5. Share the published URL on LinkedIn.
+To update GitHub Pages:
+1. Open your repository: https://github.com/Ritupat2312/ritesh-portfolio
+2. Upload/replace index.html and upload profile.png in the repository root.
+3. Commit the changes to the main branch.
+4. Wait a minute, then refresh https://ritupat2312.github.io/ritesh-portfolio/
 
-You can also upload index.html to Netlify Drop.
-Before publishing, verify every project description and add project demo/repository links if available.
+Keep index.html and profile.png in the same folder (repository root).
